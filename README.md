@@ -1,2 +1,2 @@
 # Nimap-MachineTest
-Scring Boot Crud Operations
+Spring Boot Crud Operations
